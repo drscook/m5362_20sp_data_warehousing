@@ -19,13 +19,17 @@ Most questions will be of the form "Write a query that ...".  You must submit BO
 */
 
 
+
 /*
 This homework uses the DVD rental database.  We'll keep this short - it is mostly to test whether we are fully setup and that I can see your submissions.  Try to get it done asap so we can discuss any setup issues on Thursday.
 */
 
+
+
 /*
 1. Write a query to create a dataset with 1 column named "shelf_stickers" for the films in the store which have the form "Title (rating): $rental_rate".  Ex: Chamber Italian (NC-17): $4.99"
 */
+
 
 
 /*
