@@ -26,7 +26,7 @@ This homework uses the DVD rental database.
 
 /*
 2. We wish to email a coupon to all customers who rented at least one film during July, 2005.  Write a query that finds all such customers and returns 2 columns:
-- last_name, first_name
+- last_name, first_name aliased as full_name
 - email
 Order by name (A on top).  We haven't covered joins yet, so you can't use them.  Instead use a subquery that builds on problem #1.
 */
