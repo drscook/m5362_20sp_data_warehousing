@@ -34,11 +34,11 @@ Order by name (A on top).  We haven't covered joins yet, so you can't use them. 
 
 
 /*
-3. Write a query to that returns the title, rating, and length of all films that were rented between July 1 and July 7.  Order by rating (ascending), then by length (longest on top), then by title (A on top).  Note: the rating column seems to already know the "severity" order G-PG-PG13-R-NC17.
+3. Write a query to that returns the title, rating, and length of all films that were rented between July 1 and July 7, 2005.  Order by rating (ascending), then by length (longest on top), then by title (A on top).  Note: the rating column seems to already know the "severity" order G-PG-PG13-R-NC17.
 */
 
 
 
 /*
-4. Repeat #3, but only return films whose title contains the string "doc", capitalization insensitive.
+4. Repeat #3, but only return films whose title contains the string "doc" (case insensitive).  This means titles containing "Doc" or "DOC" or any variant that only differs by capitalization SHOULD be returned.
 */
