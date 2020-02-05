@@ -21,7 +21,7 @@ Let x_i be N observations of a continuous variable; denote the mean (mu) and sta
 
 The mean (or average) is defined mu = sum[x_i] / N.
 
-The (population) variance is defined sigma^2 = sum[(x_i - mu)^2] / N.  However, a simple derivation gives the alternate formula sigma^2 = (sum[x_i^2] - mu^2) / N.  I find this alternate formula to be more convenient in sql.
+The (population) variance is defined sigma^2 = sum[(x_i - mu)^2] / N.  However, a simple derivation gives the alternate formula sigma^2 = avg(x^2) - mu^2.  I find this alternate formula to be more convenient in sql.
 
 The (population) standard deviation is the square root ot the (population) variance.
 
