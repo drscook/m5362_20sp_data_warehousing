@@ -6,7 +6,7 @@ Homework 05
 Assigned 2020/01/28
 Due 2020/02/06
 
-Consider that this hwk may take a bit longer AND that we will not cover new material on Thursday, I'm allowing 1 extra class period before it is due.  But you should try to get it done by 2/4 to allow for questions in class on 2/4.
+Considering that this hwk may take a bit longer AND that we will not cover new material on Thursday, I'm allowing 1 extra class period before it is due.  But you should try to get it done by 2/4 to allow for questions in class on 2/4.
 */
 
 
