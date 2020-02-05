@@ -4,7 +4,7 @@ Spring 2020, Tarleton State University
 Dr. Scott Cook
 Homework 06
 Assigned 2020/02/04
-Due 2020/02/11
+Due 2020/02/13
 
 Most questions will be of the form "Write a query that ...".  You must submit BOTH the resulting dataset and the query.  You must submit a separate .csv for each dataset.  You have the option whether to submit the queries in separate .sql files or combine into 1 file (with clear problem labels).
 
