@@ -70,5 +70,13 @@ order by profit (smallest on top) then by title (A on top).
 
 
 /*
-6. Repeat #5 for each FILM (drop inventory_id & store_id, add inventory_count).  Apply appropriate aggregation to combine films with multiple inventory items.
+6. Repeat #5 for each FILM (drop inventory_id & store_id, add inventory_count) by applying appropriate aggregation to combine films with multiple inventory items.  Create a table called "film_profit" with a row for each inventory item with the following columns
+- film_id
+- title
+- rental_rate
+- replacement_cost
+- inventory_count
+- rental_count
+- profit
+order by profit (smallest on top) then by title (A on top).
 */
