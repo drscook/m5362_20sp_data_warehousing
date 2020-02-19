@@ -56,6 +56,7 @@ g) MATH 3450 says "MATH 1314 or MATH 1316 or MATH 2412 or MATH 2413." Note that 
 h) MATH 4305 says "Junior Standing with at least one of the following: C or better in MATH 3305 or MATH 4302 or concurrent enrollment in MATH - 4302." -> "junior standing" AND MATH 4302
 i) combine terms "upper level" & "advanced" & "degree-applicable" into a single term "advanced"
 j) MATH 2413 says "MATH 1316 or MATH 2412. Lab fee: $2" -> MATH 2412
+k) MATH 4304 says "MATH 2413 and MATH 3302 or MATH 4302 or concurrent enrollment." -> MATH 2413 AND MATH 3302
 
 
 In class on 2/13, we determined that prereqs come in 2 basic types: course and non-course prereqs.  We decided to handle non-course prereqs by creating the following columns
