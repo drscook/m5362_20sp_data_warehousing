@@ -1,0 +1,43 @@
+"course_number","course_title","prereq_hours","prereq_hours_type","dept_head_approval","standing","math_major"
+"MATH0001","NCBO Math",NULL,NULL,False,NULL,False
+"MATH0303","Basic Mathematics",NULL,NULL,False,NULL,False
+"MATH0304","Fundamentals of College Algebra",NULL,NULL,False,NULL,False
+"MATH0305","Foundations of Statistics",NULL,NULL,False,NULL,False
+"MATH0306","Foundations of College Algebra",NULL,NULL,False,NULL,False
+"MATH1314","College Algebra",NULL,NULL,False,NULL,False
+"MATH1316","Plane Trigonometry",NULL,NULL,False,NULL,False
+"MATH1324","Math for Business & Social Sciences I (Finite Mathematics)",NULL,NULL,False,NULL,False
+"MATH1325","Math for Business & Social Sciences I (Business Calculus)",NULL,NULL,False,NULL,False
+"MATH1332","Contemporary Mathematics I",NULL,NULL,False,NULL,False
+"MATH1342","Elementary Statistical Methods",NULL,NULL,False,NULL,False
+"MATH2332","Applied Matrix Algebra",NULL,NULL,False,NULL,False
+"MATH2412","Precalculus",NULL,NULL,False,NULL,False
+"MATH2413","Calculus I",NULL,NULL,False,NULL,False
+"MATH2414","Calculus II",NULL,NULL,False,NULL,False
+"MATH3302","Principles of Geometry",NULL,NULL,False,NULL,False
+"MATH3305","Concepts of Elementary Mathematics II",NULL,NULL,False,NULL,False
+"MATH3306","Differential Equations",NULL,NULL,False,NULL,False
+"MATH3310","Discrete Mathematics",NULL,NULL,False,NULL,False
+"MATH3311","Probability and Statistics I",NULL,NULL,False,NULL,False
+"MATH3320","Foundations of Mathematics",NULL,NULL,False,NULL,False
+"MATH3332","Linear Algebra",NULL,NULL,False,NULL,False
+"MATH3433","Calculus III",NULL,NULL,False,NULL,False
+"MATH3450","Principles of Bio-Statistics",NULL,NULL,False,NULL,False
+"MATH4302","College Geometry",NULL,NULL,False,NULL,False
+"MATH4304","Survey of Mathematical Ideas",NULL,NULL,False,NULL,False
+"MATH4306","Partial Differential Equations",NULL,NULL,False,NULL,False
+"MATH4309","Advanced Analysis",NULL,NULL,False,NULL,False
+"MATH4311","Probability and Statistics II",NULL,NULL,False,NULL,False
+"MATH4332","Abstracts Algebra",NULL,NULL,False,NULL,False
+"MATH4486","Mathematics Problems",NULL,NULL,False,NULL,False
+"MATH1100","Transitioning to University Studies in Mathematics",NULL,NULL,False,NULL,True
+"MATH3301","Number Theory",6,"math",False,NULL,False
+"MATH3303","Concepts of Elementary Mathematics I",45,"university",False,NULL,False
+"MATH3360","Numerical Analysis",3,"cosc",False,NULL,False
+"MATH4086","Mathematics Problems",NULL,NULL,True,NULL,False
+"MATH4088","Undergraduate Research Project",24,"math",True,"junior",True
+"MATH4305","Concepts of Elementary Mathematics III",NULL,NULL,False,"junior",True
+"MATH4320","Mathematical Modeling",6,"advanced math",False,NULL,False
+"MATH4370","Introduction to the History of Mathematics",6,"advanced math",False,NULL,False
+"MATH4384","Introduction to the History of Mathematics",24,"advanced math",True,"junior",False
+"MATH4390","Math Topics",6,"advanced math",False,NULL,False
