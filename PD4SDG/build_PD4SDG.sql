@@ -1,3 +1,5 @@
+-- https://www.kaggle.com/fernandol/countries-of-the-world/data#
+
 drop table country cascade;
 create table country (
 	id serial,
@@ -21,6 +23,6 @@ create table country (
 	industry float(2) null,
 	service float(2) null,
 	constraint country_pk primary key (id),
-	-- constraint country_fk foreign key (region_id) references region (id)  -- make region_ids next
+	-- constraint country_fk foreign key (region_id) references region (id)  -- mot yet ... make region_ids next
 );
 
