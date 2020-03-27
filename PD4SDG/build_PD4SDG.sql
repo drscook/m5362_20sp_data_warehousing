@@ -27,3 +27,18 @@ create table country (
 	-- constraint country_fk foreign key (region_id) references region (id)  -- mot yet ... make region_ids next
 );
 
+
+
+
+drop table region;
+create table region as (
+	select
+		region_name,
+		sum(population) as population,
+		sum(area) as area
+	from
+		country
+	group by
+		1
+);
+select * from region;
