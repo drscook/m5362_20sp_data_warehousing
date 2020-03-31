@@ -1,0 +1,1 @@
+{"resources":{"Scripts/make_PD4SDG.sql":{"sql-editor-data-source-id":"postgres-jdbc-17121782691-6ec70b55c5f4a2f3","default-catalog":"PD4SDG","default-schema":"public"},"Scripts/process.sql":{"default-schema":"public","sql-editor-data-source-id":"postgres-jdbc-17121782691-6ec70b55c5f4a2f3","default-catalog":"PD4SDG"}}}
