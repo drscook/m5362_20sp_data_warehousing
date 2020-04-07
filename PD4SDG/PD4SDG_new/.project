@@ -11,9 +11,9 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>Scripts/make_PD4SDG.sql</name>
+			<name>Scripts/make_PD4SDG_1.sql</name>
 			<type>1</type>
-			<location>//C:/Users/scook/Google Drive/active/m5362_20sp_data_warehousing/PD4SDG/PD4SDG_new/Scripts/make_PD4SDG.sql</location>
+			<location>C:/Users/scook/Google Drive/active/m5362_20sp_data_warehousing/PD4SDG/PD4SDG_new/Scripts/make_PD4SDG.sql</location>
 		</link>
 		<link>
 			<name>data sources/country.csv</name>
